@@ -1,10 +1,9 @@
 ![Index](https://user-images.githubusercontent.com/98583912/212175837-9ea2d1f6-059d-4507-b528-0b378a54519b.gif)
 # **Versione 1.0**
 
-Configurazione di una postazione di lavoro per OSINT su una ISO Linux. 
+**Configurazione di una postazione di lavoro per OSINT su una ISO Linux.**
 
-
-All'interno del file Bash sono presenti i seguenti tools
+**Tools all'Interno**
 
 |**Generici**|**Social**|**Immagini**|**EMAIL**|**Network**|**Metadati**|
 | :--- | :--- | :--- | :--- | :--- | :--- | 
@@ -15,8 +14,9 @@ All'interno del file Bash sono presenti i seguenti tools
 |[**Telegram Desktop**](https://github.com/telegramdesktop/tdesktop)||||||
 |[**GoogleEarth**](http://dl.google.com/dl/earth/client/current/google-earth-stable_current_amd64.deb)||||||
 
-- Andare sulla Cartella dove si è salvato il file Bash "VMCScorza.sh"
-- Digitare sul terminale.
+**- Andare sulla Cartella dove si è salvato il file Bash "VMCScorza.sh"**
+
+**- Digitare sul terminale.**
 
 ```
 $ bash VMCScorza.sh
@@ -26,6 +26,7 @@ $ bash VMCScorza.sh
 
 https://user-images.githubusercontent.com/98583912/212161214-c9af452c-a917-4510-a453-8251a49fd12a.mp4
 
+**Per Altre Workstation pronte**
 
-In questo modo l'installazione avverrà automaticamente.
-
+|[**DistroForensics**](https://github.com/CScorza/DistroForensics)|
+| :--- |
