@@ -2,7 +2,7 @@
 
 
 ###### Setting UBUNTU lang.IT
-###### Versione Script  v1.0 2023
+###### Versione Script  v1.0 01/2023
 ###### Prima dello script mettere lingua keyboard IT
 ###### Prima di eseguire questo script leggere il file LEGGIMI.txt
 
@@ -12,7 +12,6 @@
 sudo apt-add-repository -y ppa:black-sheep-wall/cowsay-offtopic
 sudo apt-get update
 sudo apt-get install cowsay
-
 echo
 echo
 echo CScorza "Indagini Telematiche"
@@ -58,10 +57,7 @@ cd ~/Scrivania/CScorzaTools/SOCIAL
 ### ALTRI Instagram Tool
 sudo -H python3 -m pip install -U Instalooter 	#https://github.com/althonos/InstaLooter Usage https://instalooter.readthedocs.io/en/latest/usage.html
 sudo -H python3 -m pip install -U Instaloader		#https://github.com/instaloader/instaloader
-
-cd ~/Scrivania/CScorzaTools/SOCIAL
-#tinfoleak da WEB
-
+sudo -H python3 -m pip install toutatis
 cd ~/Scrivania/CScorzaTools/SOCIAL
 #Telegram
 sudo apt install telegram-desktop
@@ -110,8 +106,7 @@ sudo apt-get update
 sudo apt-get upgrade
 
 ####ChromeDriver
-##ATTENZIONE VERIFICARE LA VERSIONE DI CHROME INSTALLATA e
-##SCARICARE LA VERSIONE DI CHROMEDRIVER CORRETTA https://sites.google.com/a/chromium.org/chromedriver/downloads
+##ATTENZIONE VERIFICARE LA VERSIONE DI CHROME INSTALLATA E SCARICARE LA VERSIONE DI CHROMEDRIVER CORRETTA https://sites.google.com/a/chromium.org/chromedriver/downloads
 ##inserire lo ZIP nella cartella Scaricati 
 sudo apt-get update
 sudo pip3 install -U  selenium		#installa selenium
@@ -149,6 +144,11 @@ git clone https://github.com/WildSiphon/Mailfoguess
 cd Mailfoguess
 pip3 install -r requirements.txt
 
+sudo -H python3 -m pip install holehe				#https://github.com/megadose/holehe
+
+sudo -H python3 -m pip install maigret				#https://github.com/soxoj/maigret
+
+
 echo
 echo
 echo -e $BLU 'INSTALLATO  Email-User'
@@ -164,6 +164,8 @@ cd recon-ng
 sudo -H python3 -m pip install -r REQUIREMENTS
 sudo -H python3 -m pip install lxml
 
+git clone https://github.com/s0md3v/Photon.git
+cd Photon && sudo -H python3 -m pip install -r requirements.txt
 
 cd ~/Scrivania/CScorzaTools/Network
 #Maltego
@@ -204,7 +206,7 @@ deactivate
 
 echo
 echo
-echo -e $YELLOW '- - -INSTALLATO  Metadat '
+echo -e $YELLOW '- - -INSTALLATO  Metadati '
 echo
 echo
 echo 
@@ -223,14 +225,14 @@ sudo apt-get -f install
 
 ### TOR+Browser
 cd ~/Scrivania
-CScorzasudo add-apt-repository -y ppa:micahflee/ppa
+add-apt-repository -y ppa:micahflee/ppa
 sudo apt-get -y update
 sudo apt-get install -y torbrowser-launcher
 
 
 ### Google Earth
 cd ~/Scrivania
-CScorzawget http://dl.google.com/dl/earth/client/current/google-earth-stable_current_amd64.deb
+wget http://dl.google.com/dl/earth/client/current/google-earth-stable_current_amd64.deb
 sudo apt install -y ./google-earth-stable_current_amd64.deb
 sudo rm google-earth-stable_current_amd64.deb
 
@@ -249,9 +251,17 @@ sudo apt-get -f install
 sudo apt-get autoclean
 sudo apt-get autoremove
 ###############################################à
+say(what = "Fine Installazione Workstation Ver 1.0",
+    by = "shark",
+    what_color = "rainbow",
+    by_color = c("rainbow", "rainbow", "rainbow"))
 
 echo
 echo
-echo -e $Green 'Fine Installazione'
+echo CScorza "Indagini Telematiche"
+echo Sito Web https://cscorza.github.io/CScorza/
+echo Canale Telegram https://t.me/+kP_uYlc6-345Njc8
+echo GitHub https://github.com/CScorza
 echo
 echo
+
