@@ -251,11 +251,6 @@ sudo apt-get -f install
 sudo apt-get autoclean
 sudo apt-get autoremove
 ###############################################à
-say(what = "Fine Installazione Workstation Ver 1.0",
-    by = "shark",
-    what_color = "rainbow",
-    by_color = c("rainbow", "rainbow", "rainbow"))
-
 echo
 echo
 echo CScorza "Indagini Telematiche"
@@ -263,5 +258,5 @@ echo Sito Web https://cscorza.github.io/CScorza/
 echo Canale Telegram https://t.me/+kP_uYlc6-345Njc8
 echo GitHub https://github.com/CScorza
 echo
-echo
+echo Fine Installazione Workstation V 1.0
 
