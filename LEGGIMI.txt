@@ -1,0 +1,56 @@
+
+CScorza "Indagini Telematiche"
+
+
+@@@@@@@@@@@@&&##BBBBBBBBB##&&@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@##@&BBB####&&&####BBBB##&@@@@@@@@@@@@@@@@@
+@@@@@@B5JJ5&@&#&@@@@&&&&&&&&&#BBBB#@@@@@@@@@@@@@@@
+@@@@BYJJ5B&@@@@GP5YYYYYYJYJP@@@&#BB#&@@@@@@@@@@@@@
+@@&5JJ5#@@@@@#YJJJJYYYYYYYYG@@@@@&&&BB#@@@@GGGP#@@
+@#YJJP@@@@@@BJJJYG#&@@@@@&BPGGGGGGG5PG5@@@#JB#5G@@
+@G5PPGGGGGGGYJJJ5BBGGGGGGGB@@@@@@@@@##&@&GPB#B#@@@
+&&&&@@@@@@@#5JJJ5GBBBBBBBBBBBBBBBBBBBBBGPB@@@&&&@@
+BBB#@@@@@#PP#PJJJJY5555555PPG#&&&&&&&&&&@@@&#&&##&
+#####&#P5G#&&&BP5YJJJJJJJJJJJY5G#&&&&&&&&##B#@@@#B
+GPP#@BPB@@BBBBBBBGPPPPPPPP5YJJJJ5BBBBBBB#@@@#####@
+PJJYPB@&GPB&#BBBBBBBBBBBBB&&&YJJJP&&&&&#GP#@@@@@@@
+&YJJG&GP#@@BPB###########BPB&YJJJP&BGGG@@&G5GGG&@@
+@&YJJY#@&GPB##############B5JJJJ5BBPPGP@@@&YB&5G@@
+@@&5JJ5GP#@@PJJJJJJJJJJJJJJJJJYG@@&&#&@@@@@&BB#@@@
+@@@@BYJJ5B&@BP555PPPPP5555PPG#@@#BBB#@@@@@@@@@@@@@
+@@@@@@B5JJ5&@&#&@@@@@@@@@@@@&&#BBB#&@@@@@@@@@@@@@@
+@@@@@@@@##@&BBB####&&&####BBBB##&@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@&&##BBBBBBBBB##&&@@@@@@@@@@@@@@@@@@@@@
+
+
+Sito Web - https://cscorza.github.io/CScorza/
+Canale Telegram - https://t.me/+kP_uYlc6-345Njc8
+GitHub - https://github.com/CScorza
+
+
+
+
+### NOTA BENE ###
+
+Per Avviare lo Script andare sul Termianel Linux
+- Scrivere:
+
+$ sudo -s (digitare la Password)
+- Andare sulla Cartella dove si è salvatore il file Bash "VMCScorza.sh"
+- Digitare
+$ bash VMCScorza.sh
+
+In questo modo l'installazione avverrà automaticamente 
+
+__________________________________________________________________________-
+### PLEASE NOTE ###
+
+To Start the Script go to the Terminal in Linux
+- To write:
+
+$ sudo -s (Type Password)
+- Go to the Folder where you saved the Bash file "VMCScorza.sh"
+- To type
+$ bash VMCScorza.sh
+
+In this way the installation will take place automatically
